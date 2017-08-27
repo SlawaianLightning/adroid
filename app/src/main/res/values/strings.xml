@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_app_id">2cc45c9d557a811627af07cdd1c4fe9c</string>
+    <string name="base_url">http://api.openweathermap.org/data/2.5/</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="details">details</string>
+    <string name="description">description</string>
+    <string name="pressure">pressure</string>
+    <string name="humidity">humidity</string>
+    <string name="clouds">clouds,%</string>
+    <string name="wind">wind</string>
+    <string name="try_again">try again</string>
+    <string name="city">city</string>
+    <string name="lat">lat</string>
+    <string name="lon">long</string>
+    <string name="go">go</string>
+    <string name="updated">updated</string>
+    <string name="connection_error">connection error</string>
+    <string name="empty_field">Empty field</string>
+    <string name="error_format">Invalid input format!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Add_location">Add location to coordinates</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="change_city">change city</string>
+    <string name="add_city">add city</string>
+    <string name="no_such_address">No such address</string>
+    <string name="not_found">City not found!</string>
+    <string name="update_weather">update weather by location</string>
+</resources>
